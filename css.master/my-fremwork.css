@@ -1,0 +1,59 @@
+.b-g-r {
+    background-color: #f44336;
+}
+
+.b-g-g {
+    background-color: #22c55e;
+}
+
+.b-g-o {
+    background-color: #f59e0b;
+}
+
+.b-g-b {
+    background-color: #0075ff;
+}
+
+.c {
+    color: white;
+}
+
+
+
+.b-g-r-opacty {
+    background-color: #fdd9d7;
+}
+
+.b-g-g-opacty {
+    background-color: #22c55e33;
+}
+
+.b-g-o-opacty {
+    background-color: #fdecce;
+}
+
+ .b-b-opacty{
+    background-color: #cce3ff;
+}
+
+.red {
+    color: #f44336;
+}
+
+.green {
+    color: #22c55e;
+}
+
+.orange {
+    color: #f59e0b;
+}
+
+.blue {
+    color: #0075ff;
+}
+
+/* asdas */
+
+.p-relative {
+    position: relative;
+}
